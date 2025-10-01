@@ -8,7 +8,7 @@ This is the repository for our Applied Machine Learning group project at CBS.
 2. Open our starter notebook in Colab:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/torbenbillow/CBS-AML-PROJECT/blob/main/notebooks/01_eda.ipynb)
+https://colab.research.google.com/github/torbenbillow/CBS-AML-PROJECT/blob/main/notebooks/00_welcome.ipynb)
 
 > [For your first time in Colab with our private repo] You must navigate to http://colab.research.google.com/github and allow access to **private repositories**.
 
