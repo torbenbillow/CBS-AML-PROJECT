@@ -1,7 +1,11 @@
 # CBS-AML-PROJECT
-# CBS AML Group Project
 
 This is the repository for our Applied Machine Learning group project at CBS.
+
+## 📒 Notebooks
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/torbenbillow/CBS-AML-PROJECT/blob/main/notebooks/01_eda.ipynb)
 
 ## 📂 Project Structure
 - `notebooks/` — Jupyter notebooks for experiments and analysis.
