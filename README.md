@@ -13,7 +13,7 @@ https://colab.research.google.com/github/torbenbillow/CBS-AML-PROJECT/blob/main/
 > [For your first time in Colab with our private repo] You must navigate to http://colab.research.google.com/github and allow access to **private repositories**.
 
 3. Work in Colab. Run cells (Shift+Enter), make edits.
-4. Save back to GitHub: **File → Save a copy in GitHub…** (again, you can only do this once you've allowed access to private repositories. Otherwise, you won't see the repository listed below. 
+4. Save back to GitHub: **File → Save. 
    - **Repository:** `torbenbillow/CBS-AML-PROJECT`
    - **Branch:** create one, e.g. `feature/<your-name>-eda`
    - **Path:** keep notebooks under `notebooks/`
