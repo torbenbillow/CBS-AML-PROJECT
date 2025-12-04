@@ -32,3 +32,15 @@ https://colab.research.google.com/github/torbenbillow/CBS-AML-PROJECT/blob/main/
 
 ## 📂 Project Structure
 - `notebooks/` — Jupyter notebooks for experiments and analysis.
+
+
+QUESTIONS WE STILL HAVE: 
+   1. Should we manually tune hyperparameters somehow? As in, we run through various combinations of hyperparameters for a given model, and then manually look at the evaluation results, and choose different parameter values? The whole elbow concept of minimizing the loss.
+        - Should we do something other than GridSearchCV?
+   2. How is preprocessing inside of each CV fold preventing data leakage?
+   3. Should we use different evaluation metrics?
+         - The evaluation metrics should be chosen based on the model or the dataset or both?
+   4. When you're doing cross validation, is each fold's result somehow averaged or aggregated? For example, if we are doing linear regression, the data is split into 5 folds, each with 80/20 split. The model is trained 5 times, which produces (in this regression example) 5 regression equations with different coefficients. How do we then arrive at the "final" model?
+   5. WE CANT FORGET TO INCLUDE THE OTHER DATASET.
+   6. How is onehotencoder better than get_dummies?
+   7. Do we need to consider dimension reduction (PCA, anything else?)
